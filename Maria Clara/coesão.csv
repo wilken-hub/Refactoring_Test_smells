@@ -1,0 +1,184 @@
+Kind,Name,PercentLackOfCohesion,PercentLackOfCohesionModified
+Public Interface,"org.apache.commons.codec.BinaryDecoder",0,0
+Public Interface,"org.apache.commons.codec.BinaryEncoder",0,0
+Public Abstract Class,"org.apache.commons.codec.BinaryEncoderAbstractTest",0,0
+Public Class,"org.apache.commons.codec.CharEncoding",0,0
+Public Class,"org.apache.commons.codec.CharEncodingTest",0,0
+Public Class,"org.apache.commons.codec.Charsets",0,0
+Public Class,"org.apache.commons.codec.CharsetsTest",0,0
+Public Interface,"org.apache.commons.codec.Decoder",0,0
+Public Class,"org.apache.commons.codec.DecoderException",0,0
+Public Class,"org.apache.commons.codec.DecoderExceptionTest",0,0
+Public Interface,"org.apache.commons.codec.Encoder",0,0
+Public Class,"org.apache.commons.codec.EncoderException",0,0
+Public Class,"org.apache.commons.codec.EncoderExceptionTest",0,0
+Public Class,"org.apache.commons.codec.Resources",0,0
+Public Interface,"org.apache.commons.codec.StringDecoder",0,0
+Public Interface,"org.apache.commons.codec.StringEncoder",0,0
+Public Abstract Generic Class,"org.apache.commons.codec.StringEncoderAbstractTest",87,0
+TypeVariable,"org.apache.commons.codec.StringEncoderAbstractTest.T",0,0
+Public Class,"org.apache.commons.codec.StringEncoderComparator",0,0
+Public Class,"org.apache.commons.codec.StringEncoderComparatorTest",0,0
+Public Class,"org.apache.commons.codec.binary.AllocateDirectHexTest",0,0
+Public Class,"org.apache.commons.codec.binary.Base16",68,37
+Public Class,"org.apache.commons.codec.binary.Base16InputStream",0,0
+Public Class,"org.apache.commons.codec.binary.Base16InputStreamTest",0,0
+Public Class,"org.apache.commons.codec.binary.Base16OutputStream",0,0
+Public Class,"org.apache.commons.codec.binary.Base16OutputStreamTest",0,0
+Public Class,"org.apache.commons.codec.binary.Base16Test",96,90
+Public Class,"org.apache.commons.codec.binary.Base16TestData",0,0
+Public Class,"org.apache.commons.codec.binary.Base32",84,27
+Public Class,"org.apache.commons.codec.binary.Base32InputStream",0,0
+Public Class,"org.apache.commons.codec.binary.Base32InputStreamTest",0,0
+Public Class,"org.apache.commons.codec.binary.Base32OutputStream",0,0
+Public Class,"org.apache.commons.codec.binary.Base32OutputStreamTest",0,0
+Public Class,"org.apache.commons.codec.binary.Base32Test",0,0
+Public Class,"org.apache.commons.codec.binary.Base32TestData",0,0
+Public Class,"org.apache.commons.codec.binary.Base64",93,46
+Public Class,"org.apache.commons.codec.binary.Base64Codec13Test",0,0
+Public Class,"org.apache.commons.codec.binary.Base64InputStream",0,0
+Public Class,"org.apache.commons.codec.binary.Base64InputStreamTest",0,0
+Public Class,"org.apache.commons.codec.binary.Base64OutputStream",0,0
+Public Class,"org.apache.commons.codec.binary.Base64OutputStreamTest",0,0
+Public Class,"org.apache.commons.codec.binary.Base64Test",98,95
+Public Class,"org.apache.commons.codec.binary.Base64TestData",0,0
+Public Abstract Class,"org.apache.commons.codec.binary.BaseNCodec",92,85
+Static Class,"org.apache.commons.codec.binary.BaseNCodec.Context",50,50
+Public Class,"org.apache.commons.codec.binary.BaseNCodecInputStream",77,60
+Public Class,"org.apache.commons.codec.binary.BaseNCodecOutputStream",59,31
+Public Class,"org.apache.commons.codec.binary.BaseNCodecTest",56,56
+Private Static Class,"org.apache.commons.codec.binary.BaseNCodecTest.NoOpBaseNCodec",0,0
+Anonymous Class,"org.apache.commons.codec.binary.BaseNCodecTest.setUp.(Anon_1)",0,0
+Anonymous Class,"org.apache.commons.codec.binary.BaseNCodecTest.testProvidePaddingByte.(Anon_2)",0,0
+Public Class,"org.apache.commons.codec.binary.BaseNTestData",0,0
+Public Class,"org.apache.commons.codec.binary.BinaryCodec",0,0
+Public Class,"org.apache.commons.codec.binary.BinaryCodecTest",37,31
+Public Class,"org.apache.commons.codec.binary.CharSequenceUtils",0,0
+Public Class,"org.apache.commons.codec.binary.CharSequenceUtilsTest",0,0
+Private Static Abstract Class,"org.apache.commons.codec.binary.CharSequenceUtilsTest.RunTest",0,0
+Static Class,"org.apache.commons.codec.binary.CharSequenceUtilsTest.TestData",0,0
+Anonymous Class,"org.apache.commons.codec.binary.CharSequenceUtilsTest.testRegionMatches.(Anon_1)",0,0
+Anonymous Class,"org.apache.commons.codec.binary.CharSequenceUtilsTest.testRegionMatches.(Anon_2)",0,0
+Anonymous Class,"org.apache.commons.codec.binary.CharSequenceUtilsTest.testRegionMatches.(Anon_3)",0,0
+Public Class,"org.apache.commons.codec.binary.Codec105ErrorInputStream",0,0
+Public Class,"org.apache.commons.codec.binary.Hex",83,63
+Public Class,"org.apache.commons.codec.binary.HexTest",0,0
+Public Class,"org.apache.commons.codec.binary.StringUtils",0,0
+Public Class,"org.apache.commons.codec.binary.StringUtilsTest",0,0
+Public Class,"org.apache.commons.codec.cli.Digest",80,66
+Public Class,"org.apache.commons.codec.cli.DigestTest",0,0
+Public Class,"org.apache.commons.codec.digest.Apr1CryptTest",0,0
+Class,"org.apache.commons.codec.digest.B64",0,0
+Public Class,"org.apache.commons.codec.digest.B64Test",0,0
+Public Class,"org.apache.commons.codec.digest.Blake3",80,42
+Private Static Class,"org.apache.commons.codec.digest.Blake3.ChunkState",43,40
+Private Static Class,"org.apache.commons.codec.digest.Blake3.EngineState",37,25
+Private Static Class,"org.apache.commons.codec.digest.Blake3.Output",6,6
+Public Class,"org.apache.commons.codec.digest.Blake3Test",0,0
+Public Class,"org.apache.commons.codec.digest.Blake3TestVectorsTest",65,44
+Public Class,"org.apache.commons.codec.digest.Crypt",0,0
+Public Class,"org.apache.commons.codec.digest.CryptTest",0,0
+Public Class,"org.apache.commons.codec.digest.DigestUtils",92,87
+Public Class,"org.apache.commons.codec.digest.DigestUtilsTest",86,86
+Public Class,"org.apache.commons.codec.digest.HmacAlgorithmsTest",89,89
+Public Class,"org.apache.commons.codec.digest.HmacUtils",91,24
+Public Class,"org.apache.commons.codec.digest.HmacUtilsTest",0,0
+Public Class,"org.apache.commons.codec.digest.Md5Crypt",0,0
+Public Class,"org.apache.commons.codec.digest.Md5CryptTest",0,0
+Public Class,"org.apache.commons.codec.digest.MessageDigestAlgorithms",0,0
+Public Class,"org.apache.commons.codec.digest.MessageDigestAlgorithmsTest",70,25
+Public Class,"org.apache.commons.codec.digest.MurmurHash2",0,0
+Public Class,"org.apache.commons.codec.digest.MurmurHash2Test",0,0
+Public Class,"org.apache.commons.codec.digest.MurmurHash3",0,0
+Public Static Class,"org.apache.commons.codec.digest.MurmurHash3.IncrementalHash32",0,0
+Public Static Class,"org.apache.commons.codec.digest.MurmurHash3.IncrementalHash32x86",44,44
+Public Class,"org.apache.commons.codec.digest.MurmurHash3Test",0,0
+Public Class,"org.apache.commons.codec.digest.PureJavaCrc32",33,0
+Public Class,"org.apache.commons.codec.digest.PureJavaCrc32C",19,0
+Public Class,"org.apache.commons.codec.digest.PureJavaCrc32CTest",40,0
+Public Class,"org.apache.commons.codec.digest.PureJavaCrc32Test",0,0
+Public Static Class,"org.apache.commons.codec.digest.PureJavaCrc32Test.PerformanceTest",0,0
+Private Static Class,"org.apache.commons.codec.digest.PureJavaCrc32Test.PerformanceTest.BenchResult",0,0
+Anonymous Class,"org.apache.commons.codec.digest.PureJavaCrc32Test.PerformanceTest.doBench.(Anon_1)",0,0
+Public Static Class,"org.apache.commons.codec.digest.PureJavaCrc32Test.Table",25,0
+Public Class,"org.apache.commons.codec.digest.Sha256CryptTest",0,0
+Public Class,"org.apache.commons.codec.digest.Sha2Crypt",0,0
+Public Class,"org.apache.commons.codec.digest.Sha2CryptTest",0,0
+Public Class,"org.apache.commons.codec.digest.Sha512CryptTest",0,0
+Public Class,"org.apache.commons.codec.digest.UnixCrypt",0,0
+Public Class,"org.apache.commons.codec.digest.UnixCryptTest",0,0
+Public Class,"org.apache.commons.codec.digest.XXHash32",73,53
+Public Class,"org.apache.commons.codec.digest.XXHash32OverflowTest",0,0
+Public Class,"org.apache.commons.codec.digest.XXHash32Test",50,50
+Public Abstract Class,"org.apache.commons.codec.language.AbstractCaverphone",0,0
+Public Class,"org.apache.commons.codec.language.Caverphone",80,19
+Public Class,"org.apache.commons.codec.language.Caverphone1",0,0
+Public Class,"org.apache.commons.codec.language.Caverphone1Test",0,0
+Public Class,"org.apache.commons.codec.language.Caverphone2",0,0
+Public Class,"org.apache.commons.codec.language.Caverphone2Test",0,0
+Public Class,"org.apache.commons.codec.language.ColognePhonetic",0,0
+Abstract Class,"org.apache.commons.codec.language.ColognePhonetic.CologneBuffer",40,30
+Private Class,"org.apache.commons.codec.language.ColognePhonetic.CologneInputBuffer",0,0
+Private Class,"org.apache.commons.codec.language.ColognePhonetic.CologneOutputBuffer",33,33
+Public Class,"org.apache.commons.codec.language.ColognePhoneticTest",0,0
+Public Class,"org.apache.commons.codec.language.DaitchMokotoffSoundex",88,61
+Private Static Class,"org.apache.commons.codec.language.DaitchMokotoffSoundex.Branch",42,19
+Private Static Class,"org.apache.commons.codec.language.DaitchMokotoffSoundex.Rule",45,41
+Public Class,"org.apache.commons.codec.language.DaitchMokotoffSoundexTest",0,0
+Public Class,"org.apache.commons.codec.language.DoubleMetaphone",94,78
+Public Class,"org.apache.commons.codec.language.DoubleMetaphone.DoubleMetaphoneResult",61,27
+Public Class,"org.apache.commons.codec.language.DoubleMetaphone2Test",0,0
+Public Class,"org.apache.commons.codec.language.DoubleMetaphoneTest",0,0
+Public Class,"org.apache.commons.codec.language.MatchRatingApproachEncoder",0,0
+Public Class,"org.apache.commons.codec.language.MatchRatingApproachEncoderTest",0,0
+Public Class,"org.apache.commons.codec.language.Metaphone",83,50
+Public Class,"org.apache.commons.codec.language.MetaphoneTest",0,0
+Public Class,"org.apache.commons.codec.language.Nysiis",75,25
+Public Class,"org.apache.commons.codec.language.NysiisTest",95,54
+Public Class,"org.apache.commons.codec.language.RefinedSoundex",50,12
+Public Class,"org.apache.commons.codec.language.RefinedSoundexTest",0,0
+Public Class,"org.apache.commons.codec.language.Soundex",66,52
+Public Class,"org.apache.commons.codec.language.SoundexTest",0,0
+Class,"org.apache.commons.codec.language.SoundexUtils",0,0
+Public Class,"org.apache.commons.codec.language.bm.BeiderMorseEncoder",11,0
+Public Class,"org.apache.commons.codec.language.bm.BeiderMorseEncoderTest",0,0
+Public Class,"org.apache.commons.codec.language.bm.CacheSubSequencePerformanceTest",0,0
+Anonymous Class,"org.apache.commons.codec.language.bm.CacheSubSequencePerformanceTest.cacheSubSequence.(Anon_1)",0,0
+Public Class,"org.apache.commons.codec.language.bm.Lang",60,19
+Private Static Class,"org.apache.commons.codec.language.bm.Lang.LangRule",33,33
+Public Class,"org.apache.commons.codec.language.bm.LanguageGuessingTest",50,50
+Public Class,"org.apache.commons.codec.language.bm.Languages",60,40
+Anonymous Class,"org.apache.commons.codec.language.bm.Languages.(Anon_1)",0,0
+Anonymous Class,"org.apache.commons.codec.language.bm.Languages.(Anon_2)",0,0
+Public Static Abstract Class,"org.apache.commons.codec.language.bm.Languages.LanguageSet",0,0
+Public Static Class,"org.apache.commons.codec.language.bm.Languages.SomeLanguages",0,0
+Public Class,"org.apache.commons.codec.language.bm.PhoneticEngine",70,52
+Static Class,"org.apache.commons.codec.language.bm.PhoneticEngine.PhonemeBuilder",14,0
+Private Static Class,"org.apache.commons.codec.language.bm.PhoneticEngine.RulesApplication",53,53
+Public Class,"org.apache.commons.codec.language.bm.PhoneticEnginePerformanceTest",0,0
+Public Class,"org.apache.commons.codec.language.bm.PhoneticEngineRegressionTest",0,0
+Public Class,"org.apache.commons.codec.language.bm.PhoneticEngineTest",0,0
+Class,"org.apache.commons.codec.language.bm.ResourceConstants",0,0
+Public Class,"org.apache.commons.codec.language.bm.Rule",85,85
+Public Static Class,"org.apache.commons.codec.language.bm.Rule.Phoneme",30,30
+Public Interface,"org.apache.commons.codec.language.bm.Rule.PhonemeExpr",0,0
+Public Static Class,"org.apache.commons.codec.language.bm.Rule.PhonemeList",0,0
+Public Interface,"org.apache.commons.codec.language.bm.Rule.RPattern",0,0
+Anonymous Class,"org.apache.commons.codec.language.bm.Rule.parseRules.(Anon_1)",0,0
+Anonymous Class,"org.apache.commons.codec.language.bm.Rule.pattern.(Anon_2)",0,0
+Public Class,"org.apache.commons.codec.language.bm.RuleTest",0,0
+Public Class,"org.apache.commons.codec.net.BCodec",81,68
+Public Class,"org.apache.commons.codec.net.BCodecTest",0,0
+Public Class,"org.apache.commons.codec.net.PercentCodec",81,40
+Public Class,"org.apache.commons.codec.net.PercentCodecTest",0,0
+Public Class,"org.apache.commons.codec.net.QCodec",81,75
+Public Class,"org.apache.commons.codec.net.QCodecTest",0,0
+Public Class,"org.apache.commons.codec.net.QuotedPrintableCodec",89,62
+Public Class,"org.apache.commons.codec.net.QuotedPrintableCodecTest",0,0
+Abstract Class,"org.apache.commons.codec.net.RFC1522Codec",0,0
+Public Class,"org.apache.commons.codec.net.RFC1522CodecTest",0,0
+Static Class,"org.apache.commons.codec.net.RFC1522CodecTest.RFC1522TestCodec",0,0
+Public Class,"org.apache.commons.codec.net.URLCodec",78,42
+Public Class,"org.apache.commons.codec.net.URLCodecTest",0,0
+Class,"org.apache.commons.codec.net.Utils",0,0
+Public Class,"org.apache.commons.codec.net.UtilsTest",0,0

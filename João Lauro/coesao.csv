@@ -1,0 +1,541 @@
+Kind,Name,PercentLackOfCohesion,PercentLackOfCohesionModified
+Public Class,"org.apache.commons.io.ByteOrderMark",37,37
+Public Class,"org.apache.commons.io.ByteOrderMarkTest",0,0
+Public Class,"org.apache.commons.io.ByteOrderParser",0,0
+Public Class,"org.apache.commons.io.ByteOrderParserTest",0,0
+Public Class,"org.apache.commons.io.Charsets",0,0
+Public Class,"org.apache.commons.io.CharsetsTest",0,0
+Class,"org.apache.commons.io.CloseableURLConnection",4,2
+Public Class,"org.apache.commons.io.CopyUtils",0,0
+Public Class,"org.apache.commons.io.CopyUtilsTest",27,27
+Public Class,"org.apache.commons.io.DeleteDirectoryTest",0,0
+Public Class,"org.apache.commons.io.DemuxTest",56,37
+Private Static Class,"org.apache.commons.io.DemuxTest.ReaderThread",33,33
+Private Static Class,"org.apache.commons.io.DemuxTest.WriterThread",0,0
+Public Abstract Generic Class,"org.apache.commons.io.DirectoryWalker",81,68
+Public Static Class,"org.apache.commons.io.DirectoryWalker.CancelException",50,25
+TypeVariable,"org.apache.commons.io.DirectoryWalker.T",0,0
+Public Class,"org.apache.commons.io.DirectoryWalkerTest",0,0
+Static Class,"org.apache.commons.io.DirectoryWalkerTest.TestCancelWalker",50,50
+Private Static Class,"org.apache.commons.io.DirectoryWalkerTest.TestFalseFileFinder",0,0
+Private Static Class,"org.apache.commons.io.DirectoryWalkerTest.TestFileFinder",0,0
+Private Static Class,"org.apache.commons.io.DirectoryWalkerTest.TestFileFinderString",0,0
+Static Class,"org.apache.commons.io.DirectoryWalkerTest.TestMultiThreadCancelWalker",62,62
+Public Class,"org.apache.commons.io.DirectoryWalkerTestCaseJava4",0,0
+Static Class,"org.apache.commons.io.DirectoryWalkerTestCaseJava4.TestCancelWalker",50,50
+Private Static Class,"org.apache.commons.io.DirectoryWalkerTestCaseJava4.TestFalseFileFinder",0,0
+Private Static Class,"org.apache.commons.io.DirectoryWalkerTestCaseJava4.TestFileFinder",0,0
+Static Class,"org.apache.commons.io.DirectoryWalkerTestCaseJava4.TestMultiThreadCancelWalker",62,62
+Public Class,"org.apache.commons.io.EndianUtils",0,0
+Public Class,"org.apache.commons.io.EndianUtilsTest",0,0
+Public Class,"org.apache.commons.io.FileCleaner",0,0
+Public Class,"org.apache.commons.io.FileCleanerTest",0,0
+Public Class,"org.apache.commons.io.FileCleaningTracker",80,40
+Private Class,"org.apache.commons.io.FileCleaningTracker.Reaper",0,0
+Private Static Class,"org.apache.commons.io.FileCleaningTracker.Tracker",16,16
+Public Class,"org.apache.commons.io.FileCleaningTrackerTest",34,34
+Public Class,"org.apache.commons.io.FileDeleteStrategy",60,60
+Static Class,"org.apache.commons.io.FileDeleteStrategy.ForceFileDeleteStrategy",0,0
+Public Class,"org.apache.commons.io.FileDeleteStrategyTest",40,40
+Public Class,"org.apache.commons.io.FileExistsException",0,0
+Public Class,"org.apache.commons.io.FileSystemTest",0,0
+Public Class,"org.apache.commons.io.FileSystemUtils",0,0
+Public Class,"org.apache.commons.io.FileSystemUtilsTest",0,0
+Static Class,"org.apache.commons.io.FileSystemUtilsTest.MockFileSystemUtils",55,22
+Anonymous Class,"org.apache.commons.io.FileSystemUtilsTest.MockFileSystemUtils.openProcess.(Anon_1)",0,0
+Anonymous Class,"org.apache.commons.io.FileSystemUtilsTest.testGetFreeSpaceOS_String_Unix.(Anon_2)",0,0
+Anonymous Class,"org.apache.commons.io.FileSystemUtilsTest.testGetFreeSpaceOS_String_Windows.(Anon_3)",0,0
+Public Class,"org.apache.commons.io.FileUtils",0,0
+Public Class,"org.apache.commons.io.FileUtilsCleanDirectoryTest",0,0
+Public Class,"org.apache.commons.io.FileUtilsCleanSymlinksTest",11,11
+Public Class,"org.apache.commons.io.FileUtilsCopyDirectoryToDirectoryTest",28,28
+Public Class,"org.apache.commons.io.FileUtilsCopyToFileTest",22,22
+Private Class,"org.apache.commons.io.FileUtilsCopyToFileTest.CheckingInputStream",0,0
+Public Abstract Class,"org.apache.commons.io.FileUtilsDeleteDirectoryBaseTest",11,11
+Public Class,"org.apache.commons.io.FileUtilsDeleteDirectoryLinuxTest",0,0
+Public Class,"org.apache.commons.io.FileUtilsDeleteDirectoryWindowsTest",0,0
+Public Class,"org.apache.commons.io.FileUtilsDirectoryContainsTest",69,69
+Public Class,"org.apache.commons.io.FileUtilsFileNewerTest",66,61
+Public Class,"org.apache.commons.io.FileUtilsListFilesTest",33,33
+Public Class,"org.apache.commons.io.FileUtilsTest",93,93
+Static Class,"org.apache.commons.io.FileUtilsTest.ListDirectoryWalker",0,0
+Private Static Class,"org.apache.commons.io.FileUtilsTest.ShorterFile",0,0
+Anonymous Class,"org.apache.commons.io.FileUtilsTest.testMoveDirectory_CopyDelete.(Anon_1)",0,0
+Anonymous Class,"org.apache.commons.io.FileUtilsTest.testMoveFile_CopyDelete.(Anon_2)",0,0
+Anonymous Class,"org.apache.commons.io.FileUtilsTest.testMoveFile_CopyDelete_Failed.(Anon_3)",0,0
+Anonymous Class,"org.apache.commons.io.FileUtilsTest.testMoveFile_CopyDelete_WithFileDatePreservation.(Anon_4)",0,0
+Anonymous Class,"org.apache.commons.io.FileUtilsTest.testMoveFile_CopyDelete_WithoutFileDatePreservation.(Anon_5)",0,0
+Public Class,"org.apache.commons.io.FileUtilsWaitForTest",0,0
+Public Class,"org.apache.commons.io.FilenameUtils",0,0
+Public Class,"org.apache.commons.io.FilenameUtilsTest",97,97
+Public Class,"org.apache.commons.io.FilenameUtilsWildcardTest",0,0
+Public Class,"org.apache.commons.io.HexDump",0,0
+Public Class,"org.apache.commons.io.HexDumpTest",0,0
+Public Class,"org.apache.commons.io.IOCaseTest",0,0
+Public Class,"org.apache.commons.io.IOExceptionList",55,22
+TypeVariable,"org.apache.commons.io.IOExceptionList.getCause.T",0,0
+TypeVariable,"org.apache.commons.io.IOExceptionList.getCause.T",0,0
+TypeVariable,"org.apache.commons.io.IOExceptionList.getCauseList.T",0,0
+TypeVariable,"org.apache.commons.io.IOExceptionList.getCauseList.T",0,0
+Public Class,"org.apache.commons.io.IOExceptionListTest",0,0
+Public Class,"org.apache.commons.io.IOExceptionWithCause",0,0
+Public Class,"org.apache.commons.io.IOExceptionWithCauseTest",0,0
+Public Class,"org.apache.commons.io.IOIndexedException",33,33
+Public Class,"org.apache.commons.io.IOIndexedExceptionTest",0,0
+Public Class,"org.apache.commons.io.IOUtils",0,0
+Public Class,"org.apache.commons.io.IOUtilsCopyTest",43,40
+Public Class,"org.apache.commons.io.IOUtilsTest",89,88
+Anonymous Class,"org.apache.commons.io.IOUtilsTest.testAsBufferedInputStream.(Anon_1)",0,0
+Anonymous Class,"org.apache.commons.io.IOUtilsTest.testAsBufferedInputStreamWithBufferSize.(Anon_2)",0,0
+Anonymous Class,"org.apache.commons.io.IOUtilsTest.testAsBufferedOutputStream.(Anon_3)",0,0
+Anonymous Class,"org.apache.commons.io.IOUtilsTest.testAsBufferedOutputStreamWithBufferSize.(Anon_4)",0,0
+Anonymous Class,"org.apache.commons.io.IOUtilsTest.testAsBufferedReader.(Anon_5)",0,0
+Anonymous Class,"org.apache.commons.io.IOUtilsTest.testAsBufferedReaderWithBufferSize.(Anon_6)",0,0
+Anonymous Class,"org.apache.commons.io.IOUtilsTest.testCloseQuietly_SelectorIOException.(Anon_7)",0,0
+Anonymous Class,"org.apache.commons.io.IOUtilsTest.testCloseQuietly_ServerSocketIOException.(lambda_expr_1).(Anon_8)",0,0
+Anonymous Class,"org.apache.commons.io.IOUtilsTest.testCloseQuietly_SocketIOException.(lambda_expr_1).(Anon_9)",0,0
+Public Class,"org.apache.commons.io.IOUtilsWriteTest",52,52
+Public Class,"org.apache.commons.io.LineIterator",66,45
+Public Class,"org.apache.commons.io.LineIteratorTest",50,31
+Anonymous Class,"org.apache.commons.io.LineIteratorTest.testFiltering.(Anon_1)",0,0
+Anonymous Class,"org.apache.commons.io.LineIteratorTest.testNextWithException.(Anon_2)",0,0
+Public Class,"org.apache.commons.io.SelectorAdapter",0,0
+Public Class,"org.apache.commons.io.StandardLineSeparatorTest",0,0
+Generic Class,"org.apache.commons.io.StreamIterator",40,9
+TypeVariable,"org.apache.commons.io.StreamIterator.E",0,0
+TypeVariable,"org.apache.commons.io.StreamIterator.iterator.T",0,0
+Public Class,"org.apache.commons.io.TaggedIOException",40,19
+Public Class,"org.apache.commons.io.TaggedIOExceptionTest",0,0
+Public Class,"org.apache.commons.io.TestResources",0,0
+Class,"org.apache.commons.io.ThreadMonitor",71,42
+Public Class,"org.apache.commons.io.ThreadMonitorTest",0,0
+Public Class,"org.apache.commons.io.UncheckedIOExceptions",0,0
+Public Class,"org.apache.commons.io.UncheckedIOExceptionsTest",0,0
+Public Class,"org.apache.commons.io.charset.CharsetDecdersTest",0,0
+Public Class,"org.apache.commons.io.charset.CharsetDecoders",0,0
+Public Class,"org.apache.commons.io.charset.CharsetEncoders",0,0
+Public Class,"org.apache.commons.io.charset.CharsetEncodersTest",0,0
+Abstract Class,"org.apache.commons.io.comparator.AbstractFileComparator",0,0
+Public Abstract Class,"org.apache.commons.io.comparator.ComparatorAbstractTest",55,55
+Public Class,"org.apache.commons.io.comparator.CompositeFileComparator",0,0
+Public Class,"org.apache.commons.io.comparator.CompositeFileComparatorTest",0,0
+Public Class,"org.apache.commons.io.comparator.DefaultFileComparator",0,0
+Public Class,"org.apache.commons.io.comparator.DefaultFileComparatorTest",0,0
+Public Class,"org.apache.commons.io.comparator.DirectoryFileComparator",0,0
+Public Class,"org.apache.commons.io.comparator.DirectoryFileComparatorTest",0,0
+Public Class,"org.apache.commons.io.comparator.ExtensionFileComparator",0,0
+Public Class,"org.apache.commons.io.comparator.ExtensionFileComparatorTest",0,0
+Public Class,"org.apache.commons.io.comparator.LastModifiedFileComparator",0,0
+Public Class,"org.apache.commons.io.comparator.LastModifiedFileComparatorTest",0,0
+Public Class,"org.apache.commons.io.comparator.NameFileComparator",0,0
+Public Class,"org.apache.commons.io.comparator.NameFileComparatorTest",0,0
+Public Class,"org.apache.commons.io.comparator.PathFileComparator",0,0
+Public Class,"org.apache.commons.io.comparator.PathFileComparatorTest",0,0
+Class,"org.apache.commons.io.comparator.ReverseFileComparator",0,0
+Public Class,"org.apache.commons.io.comparator.SizeFileComparator",0,0
+Public Class,"org.apache.commons.io.comparator.SizeFileComparatorTest",50,50
+Public Abstract Class,"org.apache.commons.io.file.AbstractTempDirTest",0,0
+Public Class,"org.apache.commons.io.file.AccumulatorPathVisitor",75,68
+Public Class,"org.apache.commons.io.file.AccumulatorPathVisitorTest",80,80
+Public Class,"org.apache.commons.io.file.CleaningPathVisitor",55,11
+Public Class,"org.apache.commons.io.file.CleaningPathVisitorTest",22,0
+Public Class,"org.apache.commons.io.file.CopyDirectoryVisitor",45,30
+Public Class,"org.apache.commons.io.file.CopyDirectoryVisitorTest",0,0
+Public Class,"org.apache.commons.io.file.CounterAssertions",0,0
+Public Class,"org.apache.commons.io.file.Counters",0,0
+Private Static Class,"org.apache.commons.io.file.Counters.AbstractPathCounters",25,25
+Private Static Class,"org.apache.commons.io.file.Counters.BigIntegerCounter",0,0
+Private Static Class,"org.apache.commons.io.file.Counters.BigIntegerPathCounters",0,0
+Public Interface,"org.apache.commons.io.file.Counters.Counter",0,0
+Private Static Class,"org.apache.commons.io.file.Counters.LongCounter",0,0
+Private Static Class,"org.apache.commons.io.file.Counters.LongPathCounters",0,0
+Private Static Class,"org.apache.commons.io.file.Counters.NoopCounter",0,0
+Private Static Class,"org.apache.commons.io.file.Counters.NoopPathCounters",0,0
+Public Interface,"org.apache.commons.io.file.Counters.PathCounters",0,0
+Public Class,"org.apache.commons.io.file.CountersEqualsAndHashCodeTest",0,0
+Public Class,"org.apache.commons.io.file.CountersTest",0,0
+Public Class,"org.apache.commons.io.file.CountingPathVisitor",71,43
+Public Class,"org.apache.commons.io.file.CountingPathVisitorTest",0,0
+Public Interface,"org.apache.commons.io.file.DeleteOption",0,0
+Public Class,"org.apache.commons.io.file.DeletingPathVisitor",69,27
+Public Class,"org.apache.commons.io.file.DeletingPathVisitorTest",0,0
+Public Class,"org.apache.commons.io.file.DirectoryStreamFilter",0,0
+Public Class,"org.apache.commons.io.file.DirectoryStreamFilterTest",0,0
+Public Class,"org.apache.commons.io.file.NoopPathVisitor",0,0
+Public Interface,"org.apache.commons.io.file.PathFilter",0,0
+Public Class,"org.apache.commons.io.file.PathUtils",0,0
+Private Static Class,"org.apache.commons.io.file.PathUtils.RelativeSortedPaths",0,0
+TypeVariable,"org.apache.commons.io.file.PathUtils.filterPaths.A",0,0
+TypeVariable,"org.apache.commons.io.file.PathUtils.filterPaths.R",0,0
+TypeVariable,"org.apache.commons.io.file.PathUtils.readAttributes.A",0,0
+TypeVariable,"org.apache.commons.io.file.PathUtils.visitFileTree.T",0,0
+TypeVariable,"org.apache.commons.io.file.PathUtils.visitFileTree.T",0,0
+TypeVariable,"org.apache.commons.io.file.PathUtils.visitFileTree.T",0,0
+TypeVariable,"org.apache.commons.io.file.PathUtils.visitFileTree.T",0,0
+TypeVariable,"org.apache.commons.io.file.PathUtils.withPosixFileAttributes.R",0,0
+Public Class,"org.apache.commons.io.file.PathUtilsCleanDirectoryTest",0,0
+Public Class,"org.apache.commons.io.file.PathUtilsContentEqualsTest",25,25
+Public Class,"org.apache.commons.io.file.PathUtilsCountingTest",0,0
+Public Class,"org.apache.commons.io.file.PathUtilsDeleteDirectoryTest",0,0
+Public Class,"org.apache.commons.io.file.PathUtilsDeleteFileTest",9,9
+Public Class,"org.apache.commons.io.file.PathUtilsDeleteTest",0,0
+Public Class,"org.apache.commons.io.file.PathUtilsIsEmptyTest",0,0
+Public Class,"org.apache.commons.io.file.PathUtilsTest",0,0
+Public Class,"org.apache.commons.io.file.PathUtilsVisitorTest",80,80
+Public Interface,"org.apache.commons.io.file.PathVisitor",0,0
+Public Abstract Class,"org.apache.commons.io.file.SimplePathVisitor",0,0
+Class,"org.apache.commons.io.file.TestArguments",0,0
+Public Class,"org.apache.commons.io.file.attribute.FileTimes",0,0
+Public Class,"org.apache.commons.io.file.attribute.FileTimesTest",0,0
+Public Class,"org.apache.commons.io.file.spi.FileSystemProviders",66,66
+Public Class,"org.apache.commons.io.file.spi.FileSystemProvidersTest",0,0
+Public Abstract Class,"org.apache.commons.io.filefilter.AbstractFileFilter",84,76
+TypeVariable,"org.apache.commons.io.filefilter.AbstractFileFilter.requireNonNull.T",0,0
+Public Class,"org.apache.commons.io.filefilter.AbstractFilterTest",100,100
+Public Class,"org.apache.commons.io.filefilter.AgeFileFilter",63,54
+Public Class,"org.apache.commons.io.filefilter.AgeFileFilterTest",0,0
+Public Class,"org.apache.commons.io.filefilter.AndFileFilter",37,0
+Public Class,"org.apache.commons.io.filefilter.AndFileFilterTest",83,83
+Public Class,"org.apache.commons.io.filefilter.CanExecuteFileFilter",0,0
+Public Class,"org.apache.commons.io.filefilter.CanReadFileFilter",0,0
+Public Class,"org.apache.commons.io.filefilter.CanWriteFileFilter",0,0
+Public Interface,"org.apache.commons.io.filefilter.ConditionalFileFilter",0,0
+Public Abstract Class,"org.apache.commons.io.filefilter.ConditionalFileFilterAbstractTest",54,54
+Public Class,"org.apache.commons.io.filefilter.DelegateFileFilter",19,19
+Public Class,"org.apache.commons.io.filefilter.DirectoryFileFilter",0,0
+Public Class,"org.apache.commons.io.filefilter.DirectoryFileFilterTest",0,0
+Public Class,"org.apache.commons.io.filefilter.EmptyFileFilter",0,0
+Public Class,"org.apache.commons.io.filefilter.FalseFileFilter",0,0
+Public Class,"org.apache.commons.io.filefilter.FileEqualsFileFilter",33,33
+Public Class,"org.apache.commons.io.filefilter.FileFileFilter",0,0
+Public Class,"org.apache.commons.io.filefilter.FileFilterTest",0,0
+Public Class,"org.apache.commons.io.filefilter.FileFilterUtils",0,0
+TypeVariable,"org.apache.commons.io.filefilter.FileFilterUtils.filterFiles.A",0,0
+TypeVariable,"org.apache.commons.io.filefilter.FileFilterUtils.filterFiles.R",0,0
+Public Class,"org.apache.commons.io.filefilter.HiddenFileFilter",0,0
+Public Interface,"org.apache.commons.io.filefilter.IOFileFilter",100,100
+Public Abstract Class,"org.apache.commons.io.filefilter.IOFileFilterAbstractTest",0,0
+Class,"org.apache.commons.io.filefilter.IOFileFilterAbstractTest.TesterFalseFileFilter",60,0
+Class,"org.apache.commons.io.filefilter.IOFileFilterAbstractTest.TesterTrueFileFilter",60,0
+Public Class,"org.apache.commons.io.filefilter.MagicNumberFileFilter",35,7
+Public Class,"org.apache.commons.io.filefilter.NameFileFilter",62,12
+Public Class,"org.apache.commons.io.filefilter.NameFileFilterTest",0,0
+Public Class,"org.apache.commons.io.filefilter.NotFileFilter",16,16
+Public Class,"org.apache.commons.io.filefilter.OrFileFilter",40,0
+Public Class,"org.apache.commons.io.filefilter.OrFileFilterTest",81,81
+Public Class,"org.apache.commons.io.filefilter.PathEqualsFileFilter",0,0
+Public Class,"org.apache.commons.io.filefilter.PathVisitorFileFilter",40,0
+Public Class,"org.apache.commons.io.filefilter.PrefixFileFilter",59,22
+Public Class,"org.apache.commons.io.filefilter.RegexFileFilter",70,70
+Public Class,"org.apache.commons.io.filefilter.RegexFileFilterTest",0,0
+Public Class,"org.apache.commons.io.filefilter.SizeFileFilter",57,42
+Public Class,"org.apache.commons.io.filefilter.SuffixFileFilter",59,22
+Public Class,"org.apache.commons.io.filefilter.SymbolicLinkFileFilter",0,0
+Public Class,"org.apache.commons.io.filefilter.SymbolicLinkFileFilterTest",0,0
+Public Class,"org.apache.commons.io.filefilter.TrueFileFilter",0,0
+Public Class,"org.apache.commons.io.filefilter.WildcardFileFilter",59,22
+Public Class,"org.apache.commons.io.filefilter.WildcardFileFilterTest",0,0
+Public Class,"org.apache.commons.io.filefilter.WildcardFilter",0,0
+Public Generic Interface,"org.apache.commons.io.function.IOBiConsumer",0,0
+TypeVariable,"org.apache.commons.io.function.IOBiConsumer.T",0,0
+TypeVariable,"org.apache.commons.io.function.IOBiConsumer.U",0,0
+Public Class,"org.apache.commons.io.function.IOBiConsumerTest",0,0
+Public Generic Interface,"org.apache.commons.io.function.IOConsumer",75,75
+TypeVariable,"org.apache.commons.io.function.IOConsumer.T",0,0
+TypeVariable,"org.apache.commons.io.function.IOConsumer.forEach.T",0,0
+TypeVariable,"org.apache.commons.io.function.IOConsumer.forEachIndexed.T",0,0
+TypeVariable,"org.apache.commons.io.function.IOConsumer.noop.T",0,0
+Public Class,"org.apache.commons.io.function.IOConsumerTest",0,0
+Public Generic Interface,"org.apache.commons.io.function.IOFunction",0,0
+TypeVariable,"org.apache.commons.io.function.IOFunction.R",0,0
+TypeVariable,"org.apache.commons.io.function.IOFunction.T",0,0
+TypeVariable,"org.apache.commons.io.function.IOFunction.andThen.V",0,0
+TypeVariable,"org.apache.commons.io.function.IOFunction.andThen.V",0,0
+TypeVariable,"org.apache.commons.io.function.IOFunction.compose.V",0,0
+TypeVariable,"org.apache.commons.io.function.IOFunction.compose.V",0,0
+TypeVariable,"org.apache.commons.io.function.IOFunction.identity.T",0,0
+Public Class,"org.apache.commons.io.function.IOFunctionTest",0,0
+Private Static Generic Class,"org.apache.commons.io.function.IOFunctionTest.Holder",0,0
+TypeVariable,"org.apache.commons.io.function.IOFunctionTest.Holder.T",0,0
+Class,"org.apache.commons.io.function.IOStreams",0,0
+TypeVariable,"org.apache.commons.io.function.IOStreams.forEach.T",0,0
+TypeVariable,"org.apache.commons.io.function.IOStreams.forEachIndexed.T",0,0
+TypeVariable,"org.apache.commons.io.function.IOStreams.of.T",0,0
+Public Generic Interface,"org.apache.commons.io.function.IOSupplier",0,0
+TypeVariable,"org.apache.commons.io.function.IOSupplier.T",0,0
+Public Abstract Class,"org.apache.commons.io.input.AbstractCharacterFilterReader",60,0
+Public Abstract Class,"org.apache.commons.io.input.AbstractInputStreamTest",36,36
+Public Class,"org.apache.commons.io.input.AutoCloseInputStream",0,0
+Public Class,"org.apache.commons.io.input.AutoCloseInputStreamTest",22,22
+Anonymous Class,"org.apache.commons.io.input.AutoCloseInputStreamTest.setUp.(Anon_1)",0,0
+Public Class,"org.apache.commons.io.input.BOMInputStream",82,46
+Public Class,"org.apache.commons.io.input.BOMInputStreamTest",0,0
+Private Static Class,"org.apache.commons.io.input.BOMInputStreamTest.ExpectCloseInputStream",33,33
+Public Class,"org.apache.commons.io.input.BoundedInputStream",62,55
+Public Class,"org.apache.commons.io.input.BoundedInputStreamTest",0,0
+Public Class,"org.apache.commons.io.input.BoundedReader",50,33
+Public Class,"org.apache.commons.io.input.BoundedReaderTest",72,72
+Anonymous Class,"org.apache.commons.io.input.BoundedReaderTest.closeTest.(Anon_1)",0,0
+Public Class,"org.apache.commons.io.input.BrokenInputStream",25,25
+Public Class,"org.apache.commons.io.input.BrokenInputStreamTest",50,50
+Public Class,"org.apache.commons.io.input.BrokenReader",22,22
+Public Class,"org.apache.commons.io.input.BrokenReaderTest",54,54
+Public Class,"org.apache.commons.io.input.BufferedFileChannelInputStream",57,38
+Public Class,"org.apache.commons.io.input.BufferedFileChannelInputStreamTest",0,0
+Class,"org.apache.commons.io.input.ByteBufferCleaner",0,0
+Private Interface,"org.apache.commons.io.input.ByteBufferCleaner.Cleaner",0,0
+Private Static Class,"org.apache.commons.io.input.ByteBufferCleaner.Java8Cleaner",0,0
+Private Static Class,"org.apache.commons.io.input.ByteBufferCleaner.Java9Cleaner",0,0
+Public Class,"org.apache.commons.io.input.ByteBufferCleanerTest",0,0
+Public Class,"org.apache.commons.io.input.CharSequenceInputStream",68,37
+Public Class,"org.apache.commons.io.input.CharSequenceInputStreamTest",97,86
+Public Class,"org.apache.commons.io.input.CharSequenceReader",67,41
+Public Class,"org.apache.commons.io.input.CharSequenceReaderTest",0,0
+Public Class,"org.apache.commons.io.input.CharacterFilterReader",0,0
+Public Class,"org.apache.commons.io.input.CharacterFilterReaderIntPredicateTest",0,0
+Public Class,"org.apache.commons.io.input.CharacterFilterReaderTest",0,0
+Public Class,"org.apache.commons.io.input.CharacterSetFilterReader",0,0
+Public Class,"org.apache.commons.io.input.CharacterSetFilterReaderTest",0,0
+Public Class,"org.apache.commons.io.input.CircularInputStream",50,50
+Public Class,"org.apache.commons.io.input.CircularInputStreamTest",0,0
+Public Class,"org.apache.commons.io.input.ClassLoaderObjectInputStream",0,0
+Public Class,"org.apache.commons.io.input.ClassLoaderObjectInputStreamTest",0,0
+Private Static Class,"org.apache.commons.io.input.ClassLoaderObjectInputStreamTest.Test",41,41
+Public Class,"org.apache.commons.io.input.CloseShieldInputStream",0,0
+Public Class,"org.apache.commons.io.input.CloseShieldInputStreamTest",0,0
+Anonymous Class,"org.apache.commons.io.input.CloseShieldInputStreamTest.setUp.(Anon_1)",0,0
+Public Class,"org.apache.commons.io.input.CloseShieldReader",0,0
+Public Class,"org.apache.commons.io.input.CloseShieldReaderTest",0,0
+Public Class,"org.apache.commons.io.input.ClosedInputStream",0,0
+Public Class,"org.apache.commons.io.input.ClosedInputStreamTest",0,0
+Public Class,"org.apache.commons.io.input.ClosedReader",0,0
+Public Class,"org.apache.commons.io.input.ClosedReaderTest",0,0
+Public Class,"org.apache.commons.io.input.CountingInputStream",42,14
+Public Class,"org.apache.commons.io.input.CountingInputStreamTest",0,0
+Public Class,"org.apache.commons.io.input.DemuxInputStream",0,0
+Public Class,"org.apache.commons.io.input.InfiniteCircularInputStream",0,0
+Public Class,"org.apache.commons.io.input.InfiniteCircularInputStreamTest",0,0
+Public Class,"org.apache.commons.io.input.MarkShieldInputStream",0,0
+Public Class,"org.apache.commons.io.input.MarkShieldInputStreamTest",0,0
+Private Static Class,"org.apache.commons.io.input.MarkShieldInputStreamTest.MarkTestableInputStream",50,50
+Public Class,"org.apache.commons.io.input.MemoryMappedFileInputStream",65,42
+Public Class,"org.apache.commons.io.input.MemoryMappedFileInputStreamTest",93,6
+Public Class,"org.apache.commons.io.input.MessageDigestCalculatingInputStream",60,40
+Public Static Class,"org.apache.commons.io.input.MessageDigestCalculatingInputStream.MessageDigestMaintainingObserver",0,0
+Public Class,"org.apache.commons.io.input.MessageDigestCalculatingInputStreamTest",0,0
+Public Class,"org.apache.commons.io.input.NullInputStream",73,63
+Public Class,"org.apache.commons.io.input.NullInputStreamTest",0,0
+Private Static Class,"org.apache.commons.io.input.NullInputStreamTest.TestNullInputStream",0,0
+Public Class,"org.apache.commons.io.input.NullReader",74,62
+Public Class,"org.apache.commons.io.input.NullReaderTest",0,0
+Private Static Class,"org.apache.commons.io.input.NullReaderTest.TestNullReader",0,0
+Public Class,"org.apache.commons.io.input.ObservableInputStream",72,11
+Public Static Abstract Class,"org.apache.commons.io.input.ObservableInputStream.Observer",0,0
+Public Class,"org.apache.commons.io.input.ObservableInputStreamTest",0,0
+Private Static Class,"org.apache.commons.io.input.ObservableInputStreamTest.DataViewObserver",50,50
+Private Static Class,"org.apache.commons.io.input.ObservableInputStreamTest.LengthObserver",0,0
+Private Static Class,"org.apache.commons.io.input.ObservableInputStreamTest.MethodCountObserver",80,80
+Public Abstract Class,"org.apache.commons.io.input.ProxyInputStream",0,0
+Public Abstract Class,"org.apache.commons.io.input.ProxyReader",0,0
+Public Class,"org.apache.commons.io.input.ProxyReaderTest",0,0
+Private Static Class,"org.apache.commons.io.input.ProxyReaderTest.CustomNullReader",0,0
+Private Static Class,"org.apache.commons.io.input.ProxyReaderTest.ProxyReaderImpl",0,0
+Public Class,"org.apache.commons.io.input.QueueInputStream",25,0
+Public Class,"org.apache.commons.io.input.QueueInputStreamTest",0,0
+Public Class,"org.apache.commons.io.input.RandomAccessFileInputStream",50,37
+Public Class,"org.apache.commons.io.input.RandomAccessFileInputStreamTest",0,0
+Public Class,"org.apache.commons.io.input.ReadAheadInputStream",82,65
+Public Class,"org.apache.commons.io.input.ReadAheadInputStreamTest",0,0
+Public Class,"org.apache.commons.io.input.ReaderInputStream",82,62
+Public Class,"org.apache.commons.io.input.ReaderInputStreamTest",94,83
+Public Class,"org.apache.commons.io.input.ReversedLinesFileReader",89,69
+Private Class,"org.apache.commons.io.input.ReversedLinesFileReader.FilePart",30,25
+Public Class,"org.apache.commons.io.input.ReversedLinesFileReaderTestParamBlockSize",27,27
+Public Class,"org.apache.commons.io.input.ReversedLinesFileReaderTestParamFile",0,0
+Public Class,"org.apache.commons.io.input.ReversedLinesFileReaderTestSimple",0,0
+Public Class,"org.apache.commons.io.input.SequenceReader",41,25
+Public Class,"org.apache.commons.io.input.SequenceReaderTest",0,0
+Public Class,"org.apache.commons.io.input.StringInputStream",0,0
+Public Class,"org.apache.commons.io.input.StringInputStreamTest",0,0
+Public Class,"org.apache.commons.io.input.SwappedDataInputStream",0,0
+Public Class,"org.apache.commons.io.input.SwappedDataInputStreamTest",50,50
+Public Class,"org.apache.commons.io.input.TaggedInputStream",25,25
+Public Class,"org.apache.commons.io.input.TaggedInputStreamTest",0,0
+Public Class,"org.apache.commons.io.input.TaggedReader",25,25
+Public Class,"org.apache.commons.io.input.TaggedReaderTest",0,0
+Public Class,"org.apache.commons.io.input.Tailer",89,86
+Public Static Class,"org.apache.commons.io.input.Tailer.Builder",80,77
+Private Static Class,"org.apache.commons.io.input.Tailer.RandomAccessFileBridge",0,0
+Public Interface,"org.apache.commons.io.input.Tailer.RandomAccessResourceBridge",0,0
+Public Interface,"org.apache.commons.io.input.Tailer.Tailable",0,0
+Private Static Class,"org.apache.commons.io.input.Tailer.TailablePath",21,21
+Public Interface,"org.apache.commons.io.input.TailerListener",0,0
+Public Class,"org.apache.commons.io.input.TailerListenerAdapter",0,0
+Public Class,"org.apache.commons.io.input.TailerTest",13,13
+Private Static Class,"org.apache.commons.io.input.TailerTest.NonStandardTailable",19,19
+Anonymous Class,"org.apache.commons.io.input.TailerTest.NonStandardTailable.getRandomAccess.(Anon_1)",0,0
+Private Static Class,"org.apache.commons.io.input.TailerTest.TestTailerListener",84,84
+Public Class,"org.apache.commons.io.input.TeeInputStream",41,25
+Public Class,"org.apache.commons.io.input.TeeInputStreamTest",23,23
+Public Class,"org.apache.commons.io.input.TeeReader",42,28
+Public Class,"org.apache.commons.io.input.TeeReaderTest",22,22
+Public Class,"org.apache.commons.io.input.TimestampedObserver",33,33
+Public Class,"org.apache.commons.io.input.TimestampedObserverTest",0,0
+Public Class,"org.apache.commons.io.input.UncheckedBufferedReader",0,0
+Public Class,"org.apache.commons.io.input.UncheckedBufferedReaderTest",68,68
+Public Class,"org.apache.commons.io.input.UncheckedFilterInputStream",0,0
+Public Class,"org.apache.commons.io.input.UncheckedFilterInputStreamTest",64,64
+Public Class,"org.apache.commons.io.input.UncheckedFilterReader",0,0
+Public Class,"org.apache.commons.io.input.UncheckedFilterReaderTest",66,66
+Public Class,"org.apache.commons.io.input.UnixLineEndingInputStream",60,53
+Public Class,"org.apache.commons.io.input.UnixLineEndingInputStreamTest",0,0
+Class,"org.apache.commons.io.input.UnsupportedOperationExceptions",0,0
+Public Class,"org.apache.commons.io.input.UnsynchronizedByteArrayInputStream",40,34
+Public Class,"org.apache.commons.io.input.UnsynchronizedByteArrayInputStreamTest",0,0
+Public Class,"org.apache.commons.io.input.WindowsLineEndingInputStream",63,55
+Public Class,"org.apache.commons.io.input.WindowsLineEndingInputStreamTest",0,0
+Public Class,"org.apache.commons.io.input.XmlStreamReader",77,58
+Public Class,"org.apache.commons.io.input.XmlStreamReaderException",71,57
+Public Class,"org.apache.commons.io.input.XmlStreamReaderTest",0,0
+Public Class,"org.apache.commons.io.input.XmlStreamReaderUtilitiesTest",0,0
+Private Static Class,"org.apache.commons.io.input.XmlStreamReaderUtilitiesTest.MockXmlStreamReader",0,0
+Public Class,"org.apache.commons.io.input.buffer.CircularBufferInputStream",59,18
+Public Class,"org.apache.commons.io.input.buffer.CircularBufferInputStreamTest",33,33
+Public Class,"org.apache.commons.io.input.buffer.CircularByteBuffer",42,34
+Public Class,"org.apache.commons.io.input.buffer.PeekableInputStream",0,0
+Public Class,"org.apache.commons.io.input.compatibility.XmlStreamReader",84,59
+Public Class,"org.apache.commons.io.input.compatibility.XmlStreamReaderException",33,0
+Public Class,"org.apache.commons.io.input.compatibility.XmlStreamReaderUtilitiesCompatibilityTest",0,0
+Private Static Class,"org.apache.commons.io.input.compatibility.XmlStreamReaderUtilitiesCompatibilityTest.MockXmlStreamReader",0,0
+Public Class,"org.apache.commons.io.jmh.IOUtilsContentEqualsInputStreamsBenchmark",87,87
+Public Class,"org.apache.commons.io.jmh.IOUtilsContentEqualsReadersBenchmark",87,87
+Public Abstract Class,"org.apache.commons.io.monitor.AbstractMonitorTest",75,60
+Public Class,"org.apache.commons.io.monitor.CollectionFileListener",82,76
+Public Interface,"org.apache.commons.io.monitor.FileAlterationListener",0,0
+Public Class,"org.apache.commons.io.monitor.FileAlterationListenerAdaptor",0,0
+Public Class,"org.apache.commons.io.monitor.FileAlterationMonitor",73,64
+Public Class,"org.apache.commons.io.monitor.FileAlterationMonitorTest",0,0
+Anonymous Class,"org.apache.commons.io.monitor.FileAlterationMonitorTest.testStopWhileWaitingForNextInterval.(Anon_1)",0,0
+Public Class,"org.apache.commons.io.monitor.FileAlterationObserver",79,47
+Public Class,"org.apache.commons.io.monitor.FileAlterationObserverTest",0,0
+Public Class,"org.apache.commons.io.monitor.FileEntry",85,81
+Public Abstract Class,"org.apache.commons.io.output.AbstractByteArrayOutputStream",63,55
+Protected Generic Interface,"org.apache.commons.io.output.AbstractByteArrayOutputStream.InputStreamConstructor",0,0
+TypeVariable,"org.apache.commons.io.output.AbstractByteArrayOutputStream.InputStreamConstructor.T",0,0
+TypeVariable,"org.apache.commons.io.output.AbstractByteArrayOutputStream.toInputStream.T",0,0
+Public Generic Class,"org.apache.commons.io.output.AppendableOutputStream",0,0
+TypeVariable,"org.apache.commons.io.output.AppendableOutputStream.T",0,0
+Public Class,"org.apache.commons.io.output.AppendableOutputStreamTest",0,0
+Public Generic Class,"org.apache.commons.io.output.AppendableWriter",19,19
+TypeVariable,"org.apache.commons.io.output.AppendableWriter.T",0,0
+Public Class,"org.apache.commons.io.output.AppendableWriterTest",0,0
+Public Class,"org.apache.commons.io.output.BrokenOutputStream",33,33
+Public Class,"org.apache.commons.io.output.BrokenOutputStreamTest",50,50
+Public Class,"org.apache.commons.io.output.BrokenWriter",33,33
+Public Class,"org.apache.commons.io.output.BrokenWriterTest",50,50
+Public Class,"org.apache.commons.io.output.ByteArrayOutputStream",0,0
+Public Class,"org.apache.commons.io.output.ByteArrayOutputStreamTest",0,0
+Private Generic Interface,"org.apache.commons.io.output.ByteArrayOutputStreamTest.BAOSFactory",0,0
+TypeVariable,"org.apache.commons.io.output.ByteArrayOutputStreamTest.BAOSFactory.T",0,0
+Private Static Class,"org.apache.commons.io.output.ByteArrayOutputStreamTest.ByteArrayOutputStreamFactory",0,0
+Private Static Class,"org.apache.commons.io.output.ByteArrayOutputStreamTest.UnsynchronizedByteArrayOutputStreamFactory",0,0
+Public Class,"org.apache.commons.io.output.ChunkedOutputStream",33,0
+Public Class,"org.apache.commons.io.output.ChunkedOutputStreamTest",0,0
+Anonymous Class,"org.apache.commons.io.output.ChunkedOutputStreamTest.newByteArrayOutputStream.(Anon_1)",0,0
+Public Class,"org.apache.commons.io.output.ChunkedWriter",33,0
+Public Class,"org.apache.commons.io.output.ChunkedWriterTest",0,0
+Anonymous Class,"org.apache.commons.io.output.ChunkedWriterTest.getOutputStreamWriter.(Anon_1)",0,0
+Public Class,"org.apache.commons.io.output.CloseShieldOutputStream",0,0
+Public Class,"org.apache.commons.io.output.CloseShieldOutputStreamTest",0,0
+Anonymous Class,"org.apache.commons.io.output.CloseShieldOutputStreamTest.setUp.(Anon_1)",0,0
+Public Class,"org.apache.commons.io.output.CloseShieldWriter",0,0
+Public Class,"org.apache.commons.io.output.CloseShieldWriterTest",0,0
+Public Class,"org.apache.commons.io.output.ClosedOutputStream",0,0
+Public Class,"org.apache.commons.io.output.ClosedOutputStreamTest",0,0
+Public Class,"org.apache.commons.io.output.ClosedWriter",0,0
+Public Class,"org.apache.commons.io.output.ClosedWriterTest",0,0
+Public Class,"org.apache.commons.io.output.CountingOutputStream",50,16
+Public Class,"org.apache.commons.io.output.CountingOutputStreamTest",0,0
+Public Class,"org.apache.commons.io.output.DeferredFileOutputStream",77,53
+Public Class,"org.apache.commons.io.output.DeferredFileOutputStreamTest",53,53
+Public Class,"org.apache.commons.io.output.DemuxOutputStream",0,0
+Public Class,"org.apache.commons.io.output.FileWriterWithEncoding",0,0
+Public Class,"org.apache.commons.io.output.FileWriterWithEncodingTest",70,42
+Public Class,"org.apache.commons.io.output.FilterCollectionWriter",82,46
+TypeVariable,"org.apache.commons.io.output.FilterCollectionWriter.notNull.T",0,0
+Public Class,"org.apache.commons.io.output.LockableFileWriter",70,55
+Public Class,"org.apache.commons.io.output.LockableFileWriterTest",56,56
+Public Class,"org.apache.commons.io.output.NullAppendable",0,0
+Public Class,"org.apache.commons.io.output.NullAppendableTest",0,0
+Public Class,"org.apache.commons.io.output.NullOutputStream",0,0
+Public Class,"org.apache.commons.io.output.NullOutputStreamTest",0,0
+Public Class,"org.apache.commons.io.output.NullPrintStream",0,0
+Public Class,"org.apache.commons.io.output.NullPrintStreamTest",0,0
+Public Class,"org.apache.commons.io.output.NullWriter",0,0
+Public Class,"org.apache.commons.io.output.NullWriterTest",0,0
+Public Class,"org.apache.commons.io.output.ProxyCollectionWriter",0,0
+Public Class,"org.apache.commons.io.output.ProxyCollectionWriterTest",0,0
+Public Class,"org.apache.commons.io.output.ProxyOutputStream",0,0
+Public Class,"org.apache.commons.io.output.ProxyOutputStreamTest",0,0
+Anonymous Class,"org.apache.commons.io.output.ProxyOutputStreamTest.setUp.(Anon_1)",0,0
+Public Class,"org.apache.commons.io.output.ProxyWriter",0,0
+Public Class,"org.apache.commons.io.output.ProxyWriterTest",0,0
+Anonymous Class,"org.apache.commons.io.output.ProxyWriterTest.exceptions_in_append_char.(Anon_1)",0,0
+Anonymous Class,"org.apache.commons.io.output.ProxyWriterTest.exceptions_in_append_charSequence.(Anon_2)",0,0
+Anonymous Class,"org.apache.commons.io.output.ProxyWriterTest.exceptions_in_append_charSequence_offset.(Anon_3)",0,0
+Anonymous Class,"org.apache.commons.io.output.ProxyWriterTest.exceptions_in_close.(lambda_expr_1).(Anon_4)",0,0
+Anonymous Class,"org.apache.commons.io.output.ProxyWriterTest.exceptions_in_flush.(Anon_5)",0,0
+Anonymous Class,"org.apache.commons.io.output.ProxyWriterTest.exceptions_in_write_char_array.(Anon_6)",0,0
+Anonymous Class,"org.apache.commons.io.output.ProxyWriterTest.exceptions_in_write_int.(Anon_7)",0,0
+Anonymous Class,"org.apache.commons.io.output.ProxyWriterTest.exceptions_in_write_offset_char_array.(Anon_8)",0,0
+Anonymous Class,"org.apache.commons.io.output.ProxyWriterTest.exceptions_in_write_string.(Anon_9)",0,0
+Anonymous Class,"org.apache.commons.io.output.ProxyWriterTest.exceptions_in_write_string_offset.(Anon_10)",0,0
+Public Class,"org.apache.commons.io.output.QueueOutputStream",25,0
+Public Class,"org.apache.commons.io.output.QueueOutputStreamTest",0,0
+TypeVariable,"org.apache.commons.io.output.QueueOutputStreamTest.callInThrowAwayThread.T",0,0
+Public Class,"org.apache.commons.io.output.StringBuilderWriter",16,16
+Public Class,"org.apache.commons.io.output.StringBuilderWriterTest",0,0
+Public Class,"org.apache.commons.io.output.TaggedOutputStream",25,25
+Public Class,"org.apache.commons.io.output.TaggedOutputStreamTest",0,0
+Public Class,"org.apache.commons.io.output.TaggedWriter",25,25
+Public Class,"org.apache.commons.io.output.TaggedWriterTest",0,0
+Public Class,"org.apache.commons.io.output.TeeOutputStream",0,0
+Public Class,"org.apache.commons.io.output.TeeOutputStreamTest",0,0
+Public Class,"org.apache.commons.io.output.TeeWriter",0,0
+Public Class,"org.apache.commons.io.output.TeeWriterTest",0,0
+Public Class,"org.apache.commons.io.output.ThresholdingOutputStream",76,52
+Public Class,"org.apache.commons.io.output.ThresholdingOutputStreamTest",0,0
+Anonymous Class,"org.apache.commons.io.output.ThresholdingOutputStreamTest.testSetByteCount.(Anon_1)",0,0
+Public Interface,"org.apache.commons.io.output.UncheckedAppendable",0,0
+Class,"org.apache.commons.io.output.UncheckedAppendableImpl",0,0
+Public Class,"org.apache.commons.io.output.UncheckedAppendableTest",50,50
+Public Class,"org.apache.commons.io.output.UncheckedFilterOutputStream",0,0
+Public Class,"org.apache.commons.io.output.UncheckedFilterOutputStreamTest",61,61
+Public Class,"org.apache.commons.io.output.UncheckedFilterWriter",0,0
+Public Class,"org.apache.commons.io.output.UncheckedFilterWriterTest",64,64
+Public Class,"org.apache.commons.io.output.UnsynchronizedByteArrayOutputStream",0,0
+Public Class,"org.apache.commons.io.output.WriterOutputStream",82,53
+Public Class,"org.apache.commons.io.output.WriterOutputStreamTest",95,66
+Public Class,"org.apache.commons.io.output.XmlStreamWriter",65,56
+Public Class,"org.apache.commons.io.output.XmlStreamWriterTest",0,0
+Public Abstract Class,"org.apache.commons.io.serialization.AbstractCloseableListTest",0,0
+TypeVariable,"org.apache.commons.io.serialization.AbstractCloseableListTest.closeAfterEachTest.T",0,0
+Public Interface,"org.apache.commons.io.serialization.ClassNameMatcher",0,0
+Class,"org.apache.commons.io.serialization.FullClassNameMatcher",0,0
+Public Class,"org.apache.commons.io.serialization.FullClassNameMatcherTest",0,0
+Public Class,"org.apache.commons.io.serialization.MockSerializedClass",0,0
+Public Class,"org.apache.commons.io.serialization.MoreComplexObject",42,42
+Public Class,"org.apache.commons.io.serialization.MoreComplexObjectTest",40,9
+Class,"org.apache.commons.io.serialization.RegexpClassNameMatcher",33,33
+Public Class,"org.apache.commons.io.serialization.RegexpClassNameMatcherTest",0,0
+Public Class,"org.apache.commons.io.serialization.ValidatingObjectInputStream",58,50
+Public Class,"org.apache.commons.io.serialization.ValidatingObjectInputStreamTest",70,47
+Class,"org.apache.commons.io.serialization.ValidatingObjectInputStreamTest.customInvalidMethod.CustomVOIS",0,0
+Class,"org.apache.commons.io.serialization.WildcardClassNameMatcher",0,0
+Public Class,"org.apache.commons.io.serialization.WildcardClassNameMatcherTest",0,0
+Public Abstract Class,"org.apache.commons.io.test.TestUtils",0,0
+Public Class,"org.apache.commons.io.test.ThrowOnCloseInputStream",0,0
+Public Class,"org.apache.commons.io.test.ThrowOnCloseOutputStream",0,0
+Public Class,"org.apache.commons.io.test.ThrowOnCloseReader",0,0
+Public Class,"org.apache.commons.io.test.ThrowOnCloseWriter",0,0
+Public Class,"org.apache.commons.io.test.ThrowOnFlushAndCloseOutputStream",25,25
