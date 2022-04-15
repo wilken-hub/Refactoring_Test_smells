@@ -1,0 +1,67 @@
+Kind,Name,CountClassCoupled,CountClassCoupledModified
+Public Abstract Class,"org.apache.commons.exec.AbstractExecTest",6,6
+Public Class,"org.apache.commons.exec.CommandLine",14,14
+Class,"org.apache.commons.exec.CommandLine.Argument",1,1
+Public Class,"org.apache.commons.exec.CommandLineTest",9,9
+Public Class,"org.apache.commons.exec.DaemonExecutor",4,4
+Public Class,"org.apache.commons.exec.DefaultExecuteResultHandler",5,5
+Public Class,"org.apache.commons.exec.DefaultExecutor",20,20
+Anonymous Class,"org.apache.commons.exec.DefaultExecutor.execute.(Anon_1)",6,6
+Public Class,"org.apache.commons.exec.DefaultExecutorTest",29,29
+Anonymous Class,"org.apache.commons.exec.DefaultExecutorTest.testExecuteAsyncNonExistingApplicationWithWatchdog.(Anon_1)",2,2
+Public Class,"org.apache.commons.exec.ExecuteException",3,3
+Public Interface,"org.apache.commons.exec.ExecuteResultHandler",1,1
+Public Interface,"org.apache.commons.exec.ExecuteStreamHandler",3,3
+Public Class,"org.apache.commons.exec.ExecuteWatchdog",10,10
+Public Interface,"org.apache.commons.exec.Executor",9,9
+Public Class,"org.apache.commons.exec.InputStreamPumper",6,6
+Public Abstract Class,"org.apache.commons.exec.LogOutputStream",5,5
+Private Static Class,"org.apache.commons.exec.LogOutputStream.ByteArrayOutputStreamX",2,2
+Public Class,"org.apache.commons.exec.LogOutputStreamTest",14,14
+Private Class,"org.apache.commons.exec.LogOutputStreamTest.SystemLogOutputStream",4,4
+Public Class,"org.apache.commons.exec.OS",3,3
+Public Interface,"org.apache.commons.exec.ProcessDestroyer",1,1
+Public Class,"org.apache.commons.exec.PumpStreamHandler",13,13
+Public Class,"org.apache.commons.exec.ShutdownHookProcessDestroyer",7,7
+Private Class,"org.apache.commons.exec.ShutdownHookProcessDestroyer.ProcessDestroyerImpl",2,2
+Public Class,"org.apache.commons.exec.StandAloneTest",10,10
+Public Class,"org.apache.commons.exec.StreamPumper",8,8
+Public Class,"org.apache.commons.exec.TestUtil",4,4
+Public Interface,"org.apache.commons.exec.TimeoutObserver",1,1
+Public Class,"org.apache.commons.exec.TutorialTest",13,13
+Private Class,"org.apache.commons.exec.TutorialTest.PrintResultHandler",3,3
+Public Class,"org.apache.commons.exec.Watchdog",7,7
+Public Class,"org.apache.commons.exec.environment.DefaultProcessingEnvironment",8,8
+Anonymous Class,"org.apache.commons.exec.environment.DefaultProcessingEnvironment.createEnvironmentMap.(Anon_1)",2,2
+Public Class,"org.apache.commons.exec.environment.EnvironmentUtils",6,6
+Public Class,"org.apache.commons.exec.environment.EnvironmentUtilsTest",11,11
+Public Class,"org.apache.commons.exec.environment.OpenVmsProcessingEnvironment",0,0
+Public Class,"org.apache.commons.exec.issues.Exec33Test",8,8
+Public Class,"org.apache.commons.exec.issues.Exec34Test",9,9
+Public Class,"org.apache.commons.exec.issues.Exec36Test",16,16
+Public Class,"org.apache.commons.exec.issues.Exec41Test",10,10
+Public Class,"org.apache.commons.exec.issues.Exec44Test",9,9
+Public Class,"org.apache.commons.exec.issues.Exec49Test",11,11
+Public Class,"org.apache.commons.exec.issues.Exec57Test",7,7
+Public Class,"org.apache.commons.exec.issues.Exec60Test",9,9
+Public Class,"org.apache.commons.exec.issues.Exec62Test",15,15
+Public Class,"org.apache.commons.exec.issues.Exec65Test",11,11
+Public Interface,"org.apache.commons.exec.launcher.CommandLauncher",5,5
+Public Class,"org.apache.commons.exec.launcher.CommandLauncherFactory",4,4
+Public Abstract Class,"org.apache.commons.exec.launcher.CommandLauncherImpl",7,7
+Public Abstract Class,"org.apache.commons.exec.launcher.CommandLauncherProxy",5,5
+Public Class,"org.apache.commons.exec.launcher.Java13CommandLauncher",7,7
+Public Class,"org.apache.commons.exec.launcher.OS2CommandLauncher",6,6
+Public Class,"org.apache.commons.exec.launcher.VmsCommandLauncher",13,13
+Public Class,"org.apache.commons.exec.launcher.WinNTCommandLauncher",6,6
+Public Class,"org.apache.commons.exec.util.DebugUtils",3,3
+Public Class,"org.apache.commons.exec.util.MapUtilTest",6,6
+Public Class,"org.apache.commons.exec.util.MapUtils",4,4
+TypeVariable,"org.apache.commons.exec.util.MapUtils.copy.K",0,0
+TypeVariable,"org.apache.commons.exec.util.MapUtils.copy.V",0,0
+TypeVariable,"org.apache.commons.exec.util.MapUtils.merge.K",0,0
+TypeVariable,"org.apache.commons.exec.util.MapUtils.merge.V",0,0
+TypeVariable,"org.apache.commons.exec.util.MapUtils.prefix.K",0,0
+TypeVariable,"org.apache.commons.exec.util.MapUtils.prefix.V",0,0
+Public Class,"org.apache.commons.exec.util.StringUtilTest",6,6
+Public Class,"org.apache.commons.exec.util.StringUtils",10,10
