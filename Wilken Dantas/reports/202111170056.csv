@@ -1,0 +1,6 @@
+commons-exec-master;1064;83;0;0;4
+testsuite;production;loc;nom;wmc;rfc;lc;bc;mc;ar1;et1;it1;gf1;se1;mg1;ro1
+org.apache.commons.exec.CommandLineTest;org.apache.commons.exec.CommandLine;351;34;54;144;-1.0;-1.0;-1.0;2.0;4.0;0.0;0.0;2.0;1.0;0.0
+org.apache.commons.exec.DefaultExecutorTest;org.apache.commons.exec.DefaultExecutor;570;38;111;279;-1.0;-1.0;-1.0;3.0;6.0;0.0;67.0;2.0;2.0;13.0
+org.apache.commons.exec.LogOutputStreamTest;org.apache.commons.exec.LogOutputStream;52;5;13;13;-1.0;-1.0;-1.0;2.0;0.0;0.0;0.0;0.0;0.0;3.0
+org.apache.commons.exec.environment.EnvironmentUtilsTest;org.apache.commons.exec.environment.EnvironmentUtils;91;6;15;30;-1.0;-1.0;-1.0;3.0;3.0;0.0;0.0;2.0;0.0;0.0
