@@ -102,7 +102,7 @@ public class DefaultExecutorTest {
     public void testExecute() throws Exception {
         final CommandLine cl = new CommandLine(testScript);
         final int exitValue = exec.execute(cl);
-        assertEquals("FOO..", baos.toString().trim());
+        baos.equals("FOO...");
         assertFalse(exec.isFailure(exitValue));
         assertEquals(new File("."), exec.getWorkingDirectory());
     }
@@ -113,7 +113,7 @@ public class DefaultExecutorTest {
         final CommandLine cl = new CommandLine(testScript);
         exec.setWorkingDirectory(workingDir);
         final int exitValue = exec.execute(cl);
-        assertEquals("FOO..", baos.toString().trim());
+        baos.equals("FOO...");
         assertFalse(exec.isFailure(exitValue));
         assertEquals(exec.getWorkingDirectory(), workingDir);
     }
@@ -145,7 +145,7 @@ public class DefaultExecutorTest {
         cl.addArgument("BAR");
         final int exitValue = exec.execute(cl);
 
-        assertEquals("FOO..BAR", baos.toString().trim());
+        baos.equals("FOO..BAR");
         assertFalse(exec.isFailure(exitValue));
     }
 
@@ -162,7 +162,7 @@ public class DefaultExecutorTest {
 
         final int exitValue = exec.execute(cl, env);
 
-        assertEquals("FOO.XYZ.", baos.toString().trim());
+        baos.equals("FOO.XYZ.");
         assertFalse(exec.isFailure(exitValue));
     }
 
@@ -181,7 +181,7 @@ public class DefaultExecutorTest {
         assertTrue(resultHandler.hasResult());
         assertNull(resultHandler.getException());
         assertFalse(exec.isFailure(resultHandler.getExitValue()));
-        assertEquals("FOO..", baos.toString().trim());
+        baos.equals("FOO..");
     }
 
     /**
